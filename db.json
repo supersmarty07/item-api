@@ -1,0 +1,114 @@
+{
+  "item": [
+    {
+      "ID": 0,
+      "Name": "Woolworths Mobile SIM",
+      "Brand": "Woolworths",
+      "Price": 150,
+      "Specials": "True",
+      "Category": "Ambient",
+      "Location": "15A 4B 5S",
+      "SOH": 20
+    },
+    {
+      "ID": 1,
+      "Name": "Odd Bunch Apple",
+      "Brand": "Odd Bunch",
+      "Price": 3,
+      "Specials": "False",
+      "Category": "Chilled",
+      "Location": "24A 12B 2S",
+      "SOH": 79
+    },
+    {
+      "ID": 2,
+      "Name": "Drought Relief Full Cream Milk 2L",
+      "Brand": "Woolworths",
+      "Price": 3.59,
+      "Specials": "False",
+      "Category": "Chilled",
+      "Location": " 27A 2B 5S",
+      "SOH": 36
+    },
+    {
+      "ID": 3,
+      "Name": "Orange Juice 2L",
+      "Brand": "Quencher",
+      "Price": 4.8,
+      "Specials": "True",
+      "Category": "Chilled",
+      "Location": "31A 12B 1S",
+      "SOH": 12
+    },
+    {
+      "ID": 4,
+      "Name": "Ben & Jerry's Ice-Cream",
+      "Brand": "Ben & Jerry's",
+      "Price": 4.5,
+      "Specials": "True",
+      "Category": "Frozen",
+      "Location": " 32A B S",
+      "SOH": 0
+    },
+    {
+      "ID": 5,
+      "Name": "Nestle Kitkat Original",
+      "Brand": "Nestle",
+      "Price": 3.5,
+      "Specials": "False",
+      "Category": "Ambient",
+      "Location": "13A 4B 3S",
+      "SOH": 9
+    },
+    {
+      "ID": 6,
+      "Name": "Connoisseur Honey Macademia 1L",
+      "Brand": "Connoisseur",
+      "Price": 6,
+      "Specials": "False",
+      "Category": "Frozen",
+      "Location": "32A 7B 5S",
+      "SOH": 7
+    },
+    {
+      "ID": 7,
+      "Name": "Pedigree Adult with Real Chicken",
+      "Brand": "Pedigree",
+      "Price": 6.5,
+      "Specials": "False",
+      "Category": "Ambient",
+      "Location": "19A 3B 7S ",
+      "SOH ": 18
+    },
+    {
+      "ID": 8,
+      "Name": "Organic Eggs 700g",
+      "Brand": "PaceFarm",
+      "Price": 7,
+      "Specials": "False",
+      "Category": "Chilled",
+      "Location": "27A 8B 2S",
+      "SOH": 27
+    },
+    {
+      "ID": 9,
+      "Name": "Royal Gala Apple",
+      "Brand": "The Farm of Tasmania",
+      "Price": 3.8,
+      "Specials": "True",
+      "Category": "Chilled",
+      "Location": "24A 9B 7S",
+      "SOH": 11
+    },
+    {
+      "ID": 10,
+      "Name": "Wholemeal Bread",
+      "Brand": "Woolworths",
+      "Price": 4,
+      "Specials": "False",
+      "Category": "Ambient",
+      "Location": "1A 9B 9S",
+      "SOH": 113
+    }
+  ]
+}
